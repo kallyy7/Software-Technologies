@@ -1,6 +1,6 @@
 <p align="center"><img src="http://spaceappschallengebulgaria.eu/sites/default/files/softuni.png" width = 250 /></p>
 
-# <a href="https://softuni.bg/trainings/1939/programming-fundamentals-may-2018"><p align="center"> Programming Fundamentals <p></a>
+# <a href="https://softuni.bg/trainings/1939/programming-fundamentals-may-2018"><p align="center">Software Technologies<p></a>
 
 
 ## Program

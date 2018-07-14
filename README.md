@@ -18,25 +18,25 @@
 <tr>
   <td>2</td>
   <th>HTML5 AND CSS BASICS</th>
-  <td><a href="" >HTML5 AND CSS - BLOG DESIGN</a></td>
-  <td><a href="" >HTML5 AND CSS - EXERCISES</a></td>
+  <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/HTML5%20AND%20CSS%20-%20BLOG%20DESIGN" >HTML5 AND CSS - BLOG DESIGN</a></td>
+  <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/HTML5%20and%20CSS%20-%20Exercises" >HTML5 AND CSS - EXERCISES</a></td>
 </tr>
   <tr>
   <td>3</td>
     <th>JAVASCRIPT SYNTAX AND BASIC WEB</th>
-    <td><a href="" >JAVASCRIPT SYNTAX AND BASIC WEB</a></td>
-    <td><a href="" >JAVASCRIPT SYNTAX AND BASIC WEB - EXERCISES</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVASCRIPT%20SYNTAX%20AND%20BASIC%20WEB-LAB" >JAVASCRIPT SYNTAX AND BASIC WEB</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JavaScript%20Basics%20-%20Exercises" >JAVASCRIPT SYNTAX AND BASIC WEB - EXERCISES</a></td>
 </tr>
   <tr>
   <td>4</td>
     <th>JAVASCRIPT EXPRESSJS OVERVIEW</th>
-    <td><a href="" >JAVASCRIPT EXPRESSJS OVERVIEW</a></td>
-    <td><a href="" >JAVASCRIPT EXPRESSJS OVERVIEW - EXERCISES</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVASCRIPT%20EXPRESSJS%20OVERVIEW%20-%20EXERCISES" >JAVASCRIPT EXPRESSJS OVERVIEW</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVASCRIPT%20EXPRESSJS%20OVERVIEW%20-%20EXERCISES" >JAVASCRIPT EXPRESSJS OVERVIEW - EXERCISES</a></td>
 </tr>
   <tr>
   <td>5</td>
     <th>JAVASCRIPT BLOG BASIC FUNCTIONALITY</th>
-    <td><a href="" >JAVASCRIPT BLOG BASIC FUNCTIONALITY</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVASCRIPT%20BLOG%20BASIC%20FUNCTIONALITY" >JAVASCRIPT BLOG BASIC FUNCTIONALITY</a></td>
     <td><a href="" >JAVASCRIPT BLOG BASIC FUNCTIONALITY - EXERCISES</a></td>
 </tr>
   <tr>

@@ -37,7 +37,7 @@
   <td>5</td>
     <th>JAVASCRIPT BLOG BASIC FUNCTIONALITY</th>
     <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVASCRIPT%20BLOG%20BASIC%20FUNCTIONALITY" >JAVASCRIPT BLOG BASIC FUNCTIONALITY</a></td>
-    <td><a href="" >JAVASCRIPT BLOG BASIC FUNCTIONALITY - EXERCISES</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVASCRIPT%20BLOG%20BASIC%20FUNCTIONALITY" >JAVASCRIPT BLOG BASIC FUNCTIONALITY - EXERCISES</a></td>
 </tr>
   <tr>
   <td>6</td>

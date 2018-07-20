@@ -42,14 +42,14 @@
   <tr>
   <td>6</td>
     <th>PHP SYNTAX AND BASIC WEB</th>
-    <td><a href="" >PHP SYNTAX AND BASIC WEB</a></td>
-    <td><a href="" >PHP SYNTAX AND BASIC WEB - EXERCISES</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/PHP%20SYNTAX%20AND%20BASIC%20WEB-LAB" >PHP SYNTAX AND BASIC WEB</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/PHP%20SYNTAX%20AND%20BASIC%20WEB%20-%20EXERCISES" >PHP SYNTAX AND BASIC WEB - EXERCISES</a></td>
 </tr>
   <tr>
   <td>7</td>
     <th>PHP MVC AND SYMFONY OVERVIEW</th>
-    <td><a href="" >PHP MVC AND SYMFONY OVERVIEW</a></td>
-    <td><a href="" >PHP MVC AND SYMFONY OVERVIEW - EXERCISES</a></td>
+    <td><a href=https://github.com/kallyy7/Software-Technologies/tree/master/PHP%20MVC%20AND%20SYMFONY%20OVERVIEW%20-%20EXERCISES"" >PHP MVC AND SYMFONY OVERVIEW</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/PHP%20MVC%20AND%20SYMFONY%20OVERVIEW%20-%20EXERCISES" >PHP MVC AND SYMFONY OVERVIEW - EXERCISES</a></td>
 </tr>
     <tr>
   <td>8</td>

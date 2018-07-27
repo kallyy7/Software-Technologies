@@ -54,15 +54,15 @@
     <tr>
   <td>8</td>
     <th>PHP BLOG BASIC FUNCTIONALITY</th>
-    <td><a href="" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/PHP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EXERCISES" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/PHP%20BLOG%20BASIC%20FUNCTIONALITY%20-%20EXERCISES" >LINK</a></td>
 </tr>
   </tr>
     <tr>
   <td>9</td>
     <th>JAVA SYNTAX</th>
-    <td><a href="" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/Java%20Basics%20-%20Lab" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/Java%20Basics%20-%20Exercises" >LINK</a></td>
 </tr>
 <tr>
   <td>10</td>

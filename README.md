@@ -67,8 +67,8 @@
 <tr>
   <td>10</td>
     <th>JAVA BASIC WEB</th>
-    <td><a href="" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href=https://github.com/kallyy7/Software-Technologies/tree/master/JAVA%20BASIC%20WEB%20-%20Calculator"" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/JAVA%20BASIC%20WEB%20-%20Calculator" >LINK</a></td>
 </tr>
 <tr>
   <td>11</td>

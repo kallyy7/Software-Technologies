@@ -79,8 +79,8 @@
 <tr>
   <td>12</td>
     <th>CSHARP ASP.NET MVC OVERVIEW.NET MVC OVERVIEW</th>
-    <td><a href="" >LINK</a></td>
-    <td><a href="" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/CSHARP%20ASP.NET%20MVC%20OVERVIEW.NET%20MVC%20OVERVIEW%20-%20EXERCISES" >LINK</a></td>
+    <td><a href="https://github.com/kallyy7/Software-Technologies/tree/master/CSHARP%20ASP.NET%20MVC%20OVERVIEW.NET%20MVC%20OVERVIEW%20-%20EXERCISES" >LINK</a></td>
 </tr>
 <tr>
   <td>13</td>

@@ -1,0 +1,11 @@
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csprojAssemblyReference.cache
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.csproj.CoreCompileInputs.cache
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfoInputs.cache
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.AssemblyInfo.cs
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.deps.json
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.json
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.runtimeconfig.dev.json
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.dll
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\bin\Debug\netcoreapp2.0\ProjectRider.pdb
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.dll
+C:\Users\a38145\Desktop\project rider\C#\ProjectRider\obj\Debug\netcoreapp2.0\ProjectRider.pdb

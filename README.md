@@ -2,7 +2,7 @@
 
 # <a href="https://softuni.bg/trainings/1939/programming-fundamentals-may-2018"><p align="center">Software Technologies<p></a>
 
-## <a href="" ><p align="center"> CERTIFICATE <p></a>
+## <a href="https://softuni.bg/certificates/details/56701/2d8938c7" ><p align="center"> CERTIFICATE <p></a>
 
 ## Program
 
